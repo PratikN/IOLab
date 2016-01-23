@@ -1,0 +1,23 @@
+1. Change Directory 
+cd newdirectory
+
+2. Create a Directory 
+mkdir newdirectory
+
+3. Rename a Directory 
+mv oldname newname
+
+4. List the contents of a directory
+ls
+
+5. Move a file to a new location
+mv oldlocation/filename newlocation/filename
+
+6. Copy a file to a new location
+cp oldlocation/filename newlocation/filename
+
+7. Search for a string in a file
+grep "string" filename
+
+8. Access the shell of a remote machine
+ssh username@remotemachine
